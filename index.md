@@ -8,3 +8,4 @@ Top-level navigation for the vault.
 - [[notes/sentry-changelog]]
 - [[notes/pi-coding-agent]]
 - [[notes/pi-context-files]]
+- [[notes/pi-tui]]

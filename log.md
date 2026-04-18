@@ -97,5 +97,12 @@ Chronological ingest history.
 - curatedAction: updated
 - curatedNote: [[notes/pi-coding-agent.md]]
 - rawSource: [[raw/2026-04-18T14-14-15.430Z--36b99fa1-4b6f-4610-9b6e-f893bb138939.md]]
-- rawAsset: [[raw/assets/2026-04-18T14-14-15.430Z--36b99fa1-4b6f-4610-9b6e-f893bb138939.png]]
+- rawAsset: [[raw/assets/2026-04-18T14-14-15.430Z--36b99fa1-4b6e-f893bb138939.png]]
 - touchedNotes: [[notes/pi-coding-agent.md]]
+
+## 2026-04-18T14:14:34.737519Z ingest | 4c09a7bd-423c-463d-bd5b-fb54a502f449 | Pi TUI component model
+- curatedAction: created
+- curatedNote: [[notes/pi-tui.md]]
+- rawSource: [[raw/2026-04-18T14-14-35.973Z--4c09a7bd-423c-463d-bd5b-fb54a502f449.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/pi-tui.md]], [[index.md]], [[overview.md]]
