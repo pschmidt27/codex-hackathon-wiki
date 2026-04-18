@@ -85,3 +85,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T14-12-34.253Z--52ec0ff8-7a80-47d4-8577-bd7a28a643b7.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/sentry-agent-skills.md]]
+
+## 2026-04-18T14:14:05.280008Z ingest | c5885adb-2c1c-4780-97f8-a7aee9e755ba | Pi coding agent article
+- curatedAction: updated
+- curatedNote: [[notes/pi-coding-agent.md]]
+- rawSource: [[raw/2026-04-18T14-14-06.510Z--c5885adb-2c1c-4780-97f8-a7aee9e755ba.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/pi-coding-agent.md]]
