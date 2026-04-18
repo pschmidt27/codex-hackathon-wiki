@@ -16,6 +16,8 @@ A later capture expands on dotagents: without a package manager, agent skills ge
 
 Another capture says dotagents can declare MCP servers once in `agents.toml`, then generate the correct config file for each agent during install.
 
+A new capture says dotagents can also declare hooks once in `agents.toml` and write the correct hook config for each supported agent.
+
 ## Related
 
 - Raw source: `raw/2026/04/18/2026-04-18T11-04-04.600Z--df4f7920-8d9f-4670-8093-2f2f4e831896.txt`

@@ -37,3 +37,7 @@ Raw source: `raw/2026/04/18/2026-04-18T11-41-31.728Z--627460de-22b2-4461-b45f-eb
 ## 2026-04-18T11:47:08Z ingest | 19a3d239-9b37-4ea0-b766-815815f089a2 | Sentry MCP servers in agents.toml
 Touched notes: `notes/sentry-error-monitoring.md`, `overview.md`, `log.md`.
 Raw source: `raw/2026/04/18/2026-04-18T11-47-31.087Z--19a3d239-9b37-4ea0-b766-815815f089a2.txt`.
+
+## 2026-04-18T11:49:49Z ingest | c431e0e0-1e14-4a49-b8bb-5f749137a9c4 | Sentry hooks in agents.toml
+Touched notes: `notes/sentry-error-monitoring.md`, `overview.md`, `log.md`.
+Raw source: `raw/2026/04/18/2026-04-18T11-49-49.365Z--c431e0e0-1e14-4a49-b8bb-5f749137a9c4.txt`.
