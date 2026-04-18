@@ -22,3 +22,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T13-46-15.842Z--4ab4a66b-645b-4006-864b-e1dd454ca5b3.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/sentry-agent-skills.md]]
+
+## 2026-04-18T13:46:55.066108Z ingest | 4effea43-9813-408a-9e4e-1a03880c353b | Sentry agent skills
+- curatedAction: updated
+- curatedNote: [[notes/sentry-agent-skills.md]]
+- rawSource: [[raw/2026-04-18T13-46-56.491Z--4effea43-9813-408a-9e4e-1a03880c353b.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/sentry-agent-skills.md]]

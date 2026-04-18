@@ -1,0 +1,2 @@
+"Teach your AI coding assistant how to set up and configure Sentry in your projects, and how to use Sentry's AI agents to debug and fix issues, even in your PRs."
+ https://docs.sentry.io/ai/agent-skills/#:~:text=Teach%20your%20AI%20coding%20assistant%20how%20to%20set%20up%20and%20configure%20Sentry%20in%20your%20projects%2C%20and%20how%20to%20use%20Sentry%27s%20AI%20agents%20to%20debug%20and%20fix%20issues%2C%20even%20in%20your%20PRs.

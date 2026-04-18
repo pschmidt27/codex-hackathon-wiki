@@ -1,8 +1,9 @@
 # Sentry agent skills
 
-Sentry provides official agent skills for AI coding assistants. They split into setup skills, which help configure Sentry in specific app stacks, and workflow skills, which help debug issues, review PRs, and create alerts. The docs also show two installation approaches: a one-off skills install and a declarative `dotagents` setup that pins versions in `agents.toml`.
+Sentry’s official agent skills help AI coding assistants with two broad tasks: setting up Sentry in specific stacks and handling Sentry-related workflows such as debugging issues or reviewing PRs. The docs describe both a simple install flow and a declarative `dotagents` setup that records pinned versions in `agents.toml`.
 
-Common setup skills cover React, React Native, Python, Ruby, iOS, Next.js, .NET, Go, Svelte, AI monitoring, and OpenTelemetry exporter setup. Workflow skills include fixing issues, PR code review, and alert creation. See [[raw/2026-04-18T13-46-15.842Z--4ab4a66b-645b-4006-864b-e1dd454ca5b3.txt]] and the linked page at [[raw/2026-04-18T13-46-15.842Z--4ab4a66b-645b-4006-864b-e1dd454ca5b3.txt]].
+Setup skills cover React, React Native, Python, Ruby, iOS, Next.js, .NET, Go, Svelte, AI monitoring, and OpenTelemetry exporter setup. Workflow skills cover fixing issues, PR code review, and alert creation. The current docs are in [[raw/2026-04-18T13-46-56.491Z--4effea43-9813-408a-9e4e-1a03880c353b.txt]] and the earlier Sentry AI docs are in [[raw/2026-04-18T13-46-15.842Z--4ab4a66b-645b-4006-864b-e1dd454ca5b3.txt]].
 
 ## References
+- [[raw/2026-04-18T13-46-56.491Z--4effea43-9813-408a-9e4e-1a03880c353b.txt]]
 - [[raw/2026-04-18T13-46-15.842Z--4ab4a66b-645b-4006-864b-e1dd454ca5b3.txt]]
