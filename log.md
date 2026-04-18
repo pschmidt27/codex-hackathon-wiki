@@ -127,3 +127,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T14-18-31.203Z--852b6cfd-1e62-47c9-945d-cdfbfe528893.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/reddit-user-chromeragnarok.md]]
+
+## 2026-04-18T16:11:13.636007Z ingest | 365144ff-00c2-4009-ace3-e150ffc43cb3 | Sentry concepts & reference
+- curatedAction: created
+- curatedNote: [[notes/sentry-concepts-reference.md]]
+- rawSource: [[raw/2026-04-18T16-11-15.976Z--365144ff-00c2-4009-ace3-e150ffc43cb3.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/sentry-concepts-reference.md]], [[index.md]], [[overview.md]]
