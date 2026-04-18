@@ -50,3 +50,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T13-56-03.873Z--19f7abe1-74e1-4ff5-9c72-4bfda74bceb0.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/pi-coding-agent.md]], [[index.md]], [[overview.md]]
+
+## 2026-04-18T13:56:43.773Z ingest | 402bfb4f-a729-4b94-ae7e-7ebe58e68774 | Pi coding agent package
+- curatedAction: updated
+- curatedNote: [[notes/pi-coding-agent.md]]
+- rawSource: [[raw/2026-04-18T13-56-43.773Z--402bfb4f-a729-4b94-ae7e-7ebe58e68774.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/pi-coding-agent.md]]
