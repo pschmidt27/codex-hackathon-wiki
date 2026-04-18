@@ -92,3 +92,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T14-14-06.510Z--c5885adb-2c1c-4780-97f8-a7aee9e755ba.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/pi-coding-agent.md]]
+
+## 2026-04-18T14:14:15.430Z ingest | 36b99fa1-4b6f-4610-9b6e-f893bb138939 | Pi dev server restart
+- curatedAction: updated
+- curatedNote: [[notes/pi-coding-agent.md]]
+- rawSource: [[raw/2026-04-18T14-14-15.430Z--36b99fa1-4b6f-4610-9b6e-f893bb138939.md]]
+- rawAsset: [[raw/assets/2026-04-18T14-14-15.430Z--36b99fa1-4b6f-4610-9b6e-f893bb138939.png]]
+- touchedNotes: [[notes/pi-coding-agent.md]]
