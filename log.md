@@ -43,3 +43,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T13-54-02.718Z--9664e179-64a2-4324-a777-af75f6c29445.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/sentry-changelog.md]], [[index.md]], [[overview.md]]
+
+## 2026-04-18T13:56:03.873Z ingest | 19f7abe1-74e1-4ff5-9c72-4bfda74bceb0 | Pi coding agent
+- curatedAction: created
+- curatedNote: [[notes/pi-coding-agent.md]]
+- rawSource: [[raw/2026-04-18T13-56-03.873Z--19f7abe1-74e1-4ff5-9c72-4bfda74bceb0.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/pi-coding-agent.md]], [[index.md]], [[overview.md]]

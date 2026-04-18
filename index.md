@@ -6,3 +6,4 @@ Top-level navigation for the vault.
 - [[notes/sentry-ai]]
 - [[notes/sentry-agent-skills]]
 - [[notes/sentry-changelog]]
+- [[notes/pi-coding-agent]]
