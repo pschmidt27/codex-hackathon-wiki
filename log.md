@@ -141,3 +141,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T16-12-11.315Z--ba2ac748-5fb0-4321-904c-dd9a7e145e90.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/sentry-concepts-reference.md]]
+
+## 2026-04-18T16:34:18.417Z ingest | f9b3324e-17f4-4116-9ae5-6e20fcbcab95 | Beer mug photo
+- curatedAction: created
+- curatedNote: [[notes/beverage-photo.md]]
+- rawSource: [[raw/2026-04-18T16-34-18.417Z--f9b3324e-17f4-4116-9ae5-6e20fcbcab95.md]]
+- rawAsset: [[raw/assets/2026-04-18T16-34-18.417Z--f9b3324e-17f4-4116-9ae5-6e20fcbcab95.jpg]]
+- touchedNotes: [[notes/beverage-photo.md]]
