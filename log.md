@@ -183,3 +183,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T17-42-10.023Z--ba978d77-1733-4535-bf36-f4335b0bfb67.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/sentry-concepts-reference.md]]
+
+## 2026-04-18T17:42:31.680Z ingest | e2dfb733-9891-4969-a890-1c63e5601e78 | Sentry concepts landing page
+- curatedAction: updated
+- curatedNote: [[notes/sentry-concepts-reference.md]]
+- rawSource: [[raw/2026-04-18T17-42-31.680Z--e2dfb733-9891-4969-a890-1c63e5601e78.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/sentry-concepts-reference.md]]
