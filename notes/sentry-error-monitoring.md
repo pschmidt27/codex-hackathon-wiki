@@ -18,9 +18,12 @@ Another capture says dotagents can declare MCP servers once in `agents.toml`, th
 
 A new capture says dotagents can also declare hooks once in `agents.toml` and write the correct hook config for each supported agent.
 
+Another capture says skills are declared in `agents.toml` at the project root, install clones repos, discovers skills by convention, copies them into `.agents/skills/`, and records the resolved commit and a SHA-256 in `agents.lock`.
+
 ## Related
 
 - Raw source: `raw/2026/04/18/2026-04-18T11-04-04.600Z--df4f7920-8d9f-4670-8093-2f2f4e831896.txt`
 - Raw source: `raw/2026/04/18/2026-04-18T11-14-44.810Z--db99a4a7-7129-4e68-b357-05a45a225ca4.txt`
 - Raw source: `raw/2026/04/18/2026-04-18T11-35-44.010Z--310aedeb-b7e1-48e8-b84c-232e0a20a145.txt`
 - Raw source: `raw/2026/04/18/2026-04-18T11-41-31.728Z--627460de-22b2-4461-b45f-eb5550a40806.txt`
+- Raw source: `raw/2026/04/18/2026-04-18T11-52-16.953Z--956952b5-7def-4a2f-bf0b-d53c4fc0bbff.txt`

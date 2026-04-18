@@ -1,0 +1,4 @@
+"Skills are declared in agents.toml at the project root.
+install clones repos, discovers skills by convention, and copies them into .agents/skills/.
+agents.lock records the resolved commit and a SHA-256 "
+ https://docs.sentry.io/ai/dotagents/#:~:text=Skills%20are%20declared,a%20SHA%2D256

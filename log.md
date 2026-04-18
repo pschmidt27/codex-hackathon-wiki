@@ -41,3 +41,7 @@ Raw source: `raw/2026/04/18/2026-04-18T11-47-31.087Z--19a3d239-9b37-4ea0-b766-81
 ## 2026-04-18T11:49:49Z ingest | c431e0e0-1e14-4a49-b8bb-5f749137a9c4 | Sentry hooks in agents.toml
 Touched notes: `notes/sentry-error-monitoring.md`, `overview.md`, `log.md`.
 Raw source: `raw/2026/04/18/2026-04-18T11-49-49.365Z--c431e0e0-1e14-4a49-b8bb-5f749137a9c4.txt`.
+
+## 2026-04-18T11:52:16Z ingest | 956952b5-7def-4a2f-bf0b-d53c4fc0bbff | Sentry skills in agents.toml
+Touched notes: `notes/sentry-error-monitoring.md`, `overview.md`, `log.md`.
+Raw source: `raw/2026/04/18/2026-04-18T11-52-16.953Z--956952b5-7def-4a2f-bf0b-d53c4fc0bbff.txt`.
