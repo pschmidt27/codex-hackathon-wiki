@@ -45,3 +45,7 @@ Raw source: `raw/2026/04/18/2026-04-18T11-49-49.365Z--c431e0e0-1e14-4a49-b8bb-5f
 ## 2026-04-18T11:52:16Z ingest | 956952b5-7def-4a2f-bf0b-d53c4fc0bbff | Sentry skills in agents.toml
 Touched notes: `notes/sentry-error-monitoring.md`, `overview.md`, `log.md`.
 Raw source: `raw/2026/04/18/2026-04-18T11-52-16.953Z--956952b5-7def-4a2f-bf0b-d53c4fc0bbff.txt`.
+
+## 2026-04-18T11:52:24Z ingest | 78b96bee-5827-4053-a375-236a5a2f025e | Sentry gitignore default
+Touched notes: `notes/sentry-error-monitoring.md`, `overview.md`, `log.md`.
+Raw source: `raw/2026/04/18/2026-04-18T11-52-24.964Z--78b96bee-5827-4053-a375-236a5a2f025e.txt`.
