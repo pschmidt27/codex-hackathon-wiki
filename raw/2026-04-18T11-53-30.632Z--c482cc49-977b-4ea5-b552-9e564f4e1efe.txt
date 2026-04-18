@@ -1,0 +1,2 @@
+"To gitignore managed skills instead (collaborators must run install), set gitignore = true in agents.toml."
+ https://docs.sentry.io/ai/dotagents/#:~:text=To%20gitignore%20managed%20skills%20instead%20(collaborators%20must%20run%20install)%2C%20set%20gitignore%20%3D%20true%20in%20agents.toml.

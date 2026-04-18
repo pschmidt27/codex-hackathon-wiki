@@ -22,6 +22,8 @@ Another capture says skills are declared in `agents.toml` at the project root, i
 
 A new capture adds that `init` sets `gitignore = false` by default, so installed skills are committed to git and anyone cloning the repo gets the skills immediately.
 
+A later capture says that to gitignore managed skills instead, collaborators must run install and you can set `gitignore = true` in `agents.toml`. This does not conflict with the default above; it describes the opt-in alternative.
+
 ## Related
 
 - Raw source: `raw/2026/04/18/2026-04-18T11-04-04.600Z--df4f7920-8d9f-4670-8093-2f2f4e831896.txt`
