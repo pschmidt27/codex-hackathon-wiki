@@ -113,3 +113,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T14-15-36.381Z--dc31db9c-9818-4457-a6ce-5812e1d72991.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/sentry-documentation.md]]
+
+## 2026-04-18T14:17:55.747811Z ingest | 837c2dbe-2781-44fa-be48-1b762dc3e85e | Codex sentiment
+- curatedAction: updated
+- curatedNote: [[notes/pi-coding-agent.md]]
+- rawSource: [[raw/2026-04-18T14-17-56.818Z--837c2dbe-2781-44fa-be48-1b762dc3e85e.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/pi-coding-agent.md]]
