@@ -57,3 +57,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T13-56-43.773Z--402bfb4f-a729-4b94-ae7e-7ebe58e68774.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/pi-coding-agent.md]]
+
+## 2026-04-18T13:57:08.412Z ingest | 029f1bb5-bc0c-4b7f-aa79-cfa60fa3dbd9 | Pi context files
+- curatedAction: created
+- curatedNote: [[notes/pi-context-files.md]]
+- rawSource: [[raw/2026-04-18T13-57-08.412Z--029f1bb5-bc0c-4b7f-aa79-cfa60fa3dbd9.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/pi-context-files.md]], [[index.md]], [[overview.md]]

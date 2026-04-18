@@ -1,0 +1,9 @@
+"Context Files
+Pi loads AGENTS.md (or CLAUDE.md) at startup from:
+
+~/.pi/agent/AGENTS.md (global)
+Parent directories (walking up from cwd)
+Current directory
+Use for project instructions, conventions, common commands. All matching files are concatenated.
+
+Disable context file loading with --no-context-files (or -nc)"
