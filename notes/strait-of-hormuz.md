@@ -1,6 +1,6 @@
 # Strait of Hormuz
 
-The Strait of Hormuz is a strategic shipping chokepoint between the Persian Gulf and the Gulf of Oman.
+The Strait of Hormuz is a strategic maritime chokepoint between the Persian Gulf and the Gulf of Oman, making it important to global energy shipping and regional security.
 
 ## Recent note
 

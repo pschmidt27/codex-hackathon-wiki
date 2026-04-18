@@ -1,0 +1,3 @@
+"Source Formats
+Skills can come from GitHub repos, pinned refs, non-GitHub git hosts, or local paths:"
+ https://docs.sentry.io/ai/dotagents/#:~:text=Source%20Formats,or%20local%20paths%3A

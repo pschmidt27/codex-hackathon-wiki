@@ -1,0 +1,6 @@
+"agent skills, use the MCP server, or add monitoring to your AI applications.
+Tools For Your Agents
+
+Agent Skills
+Teach your AI coding assistant how to set up and configure Sentry. Works with Claude Code, Cursor, GitHub Copilot, and more."
+ https://docs.sentry.io/ai/#:~:text=agent%20skills%2C%20use,Copilot%2C%20and%20more.

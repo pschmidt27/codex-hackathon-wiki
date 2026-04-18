@@ -1,0 +1,2 @@
+"Declare MCP servers once in agents.toml and dotagents generates the correct config file for each agent during install and"
+ https://docs.sentry.io/ai/dotagents/#:~:text=Declare%20MCP%20servers%20once%20in%20agents.toml%20and%20dotagents%20generates%20the%20correct%20config%20file%20for%20each%20agent%20during%20install%20and

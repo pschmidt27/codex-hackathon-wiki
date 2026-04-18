@@ -1,0 +1,3 @@
+"Sentry for AI
+Connect Sentry to your AI coding assistants and workflows. Install agent skills, use the MCP server, or add monitoring to your AI applications."
+ https://docs.sentry.io/ai/#:~:text=Sentry%20for%20AI-,Sentry%20for%20AI,use%20the%20MCP%20server%2C%20or%20add%20monitoring%20to%20your%20AI%20applications.,-Tools%20For%20Your

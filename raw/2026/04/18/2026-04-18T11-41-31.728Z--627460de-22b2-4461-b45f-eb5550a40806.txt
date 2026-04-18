@@ -1,0 +1,2 @@
+"Without a package manager, agent skills end up copy-pasted between directories, versions drift across team members, and onboarding new tools requires manual setup. dotagents solves this:"
+ https://docs.sentry.io/ai/dotagents/#:~:text=Without%20a%20package%20manager%2C%20agent%20skills%20end%20up%20copy%2Dpasted%20between%20directories%2C%20versions%20drift%20across%20team%20members%2C%20and%20onboarding%20new%20tools%20requires%20manual%20setup.%20dotagents%20solves%20this%3A
