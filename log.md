@@ -64,3 +64,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T13-57-08.412Z--029f1bb5-bc0c-4b7f-aa79-cfa60fa3dbd9.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/pi-context-files.md]], [[index.md]], [[overview.md]]
+
+## 2026-04-18T14:11:32.347403Z ingest | 6cb6ee2f-b2cf-4c6b-8894-d7bfdef4a55f | Sentry AI monitoring
+- curatedAction: updated
+- curatedNote: [[notes/sentry-ai.md]]
+- rawSource: [[raw/2026-04-18T14-11-34.773Z--6cb6ee2f-b2cf-4c6b-8894-d7bfdef4a55f.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/sentry-ai.md]]
