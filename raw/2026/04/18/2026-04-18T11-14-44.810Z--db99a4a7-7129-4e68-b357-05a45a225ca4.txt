@@ -1,0 +1,2 @@
+"Sentry provides end-to-end distributed tracing, enabling developers to identify and debug performance issues and errors across their systems and services."
+ https://docs.sentry.io/#:~:text=Sentry%20provides%20end%2Dto%2Dend%20distributed%20tracing%2C%20enabling%20developers%20to%20identify%20and%20debug%20performance%20issues%20and%20errors%20across%20their%20systems%20and%20services.
