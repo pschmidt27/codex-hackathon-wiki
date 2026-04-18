@@ -134,3 +134,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T16-11-15.976Z--365144ff-00c2-4009-ace3-e150ffc43cb3.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/sentry-concepts-reference.md]], [[index.md]], [[overview.md]]
+
+## 2026-04-18T16:12:09.449298Z ingest | ba2ac748-5fb0-4321-904c-dd9a7e145e90 | Sentry search
+- curatedAction: updated
+- curatedNote: [[notes/sentry-concepts-reference.md]]
+- rawSource: [[raw/2026-04-18T16-12-11.315Z--ba2ac748-5fb0-4321-904c-dd9a7e145e90.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/sentry-concepts-reference.md]]

@@ -1,0 +1,3 @@
+"Search
+Learn more about how to search in Sentry, including the correct query syntax, searchable properties, and custom tags"
+ https://docs.sentry.io/concepts/#:~:text=Search,and%20custom%20tags
