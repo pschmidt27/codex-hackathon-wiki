@@ -1,0 +1,7 @@
+"Style Guidelines
+Prefer tables over paragraphs for reference information
+Use phases/steps for multi-stage workflows
+Include version requirements where applicable
+Add troubleshooting tables for common issues
+Target ~100-200 lines per skill to minimize token usage"
+ https://docs.sentry.io/ai/agent-skills/#:~:text=Style%20Guidelines,minimize%20token%20usage
