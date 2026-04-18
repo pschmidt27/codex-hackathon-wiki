@@ -1,2 +1,0 @@
-"Each server uses either command (stdio) or url (HTTP), not both. The env field lists environment variable names to pass through from the user's environment."
- https://docs.sentry.io/ai/dotagents/#:~:text=Each%20server%20uses%20either%20command%20(stdio)%20or%20url%20(HTTP)%2C%20not%20both.%20The%20env%20field%20lists%20environment%20variable%20names%20to%20pass%20through%20from%20the%20user%27s%20environment.

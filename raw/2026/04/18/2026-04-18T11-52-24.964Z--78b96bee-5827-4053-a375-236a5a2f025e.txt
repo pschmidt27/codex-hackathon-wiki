@@ -1,2 +1,0 @@
-"By default, init sets gitignore = false so installed skills are committed to git. Anyone cloning the repo gets skills immediately — they only need "
- https://docs.sentry.io/ai/dotagents/#:~:text=By%20default%2C%20init%20sets%20gitignore%20%3D%20false%20so%20installed%20skills%20are%20committed%20to%20git.%20Anyone%20cloning%20the%20repo%20gets%20skills%20immediately%20%E2%80%94%20they%20only%20need

@@ -1,4 +1,0 @@
-"The agents field controls which tools dotagents configures. It handles skill symlinks, MCP config files, and hook config files for each agent:
-
-Toml"
- https://docs.sentry.io/ai/dotagents/#:~:text=The%20agents%20field%20controls,Toml

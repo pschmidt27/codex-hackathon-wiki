@@ -1,3 +1,0 @@
-"Fehlerüberwachung
-Erhalte umsetzbare Einblicke, um die wichtigsten codebezogenen Probleme zu beheben. Verfolge, debugge und behebe Fehler in jeder Sprache oder jedem "
- https://sentry.io/lp/de/fehlerueberwachung/#:~:text=Fehler%C3%BCberwachung,Sprache%20oder%20jedem

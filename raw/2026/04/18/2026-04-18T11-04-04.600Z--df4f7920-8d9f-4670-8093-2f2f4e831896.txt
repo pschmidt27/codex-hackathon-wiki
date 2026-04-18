@@ -1,7 +1,0 @@
-"Fehlerüberwachung
-Erhalte umsetzbare Einblicke, um die wichtigsten codebezogenen Probleme zu beheben. Verfolge, debugge und behebe Fehler in jeder Sprache oder jedem Framework mit maßgeschneidertem Kontext, um jedes Mal die Ursache zu finden.
-
-E-Mail-Adresse
-
-"
- https://sentry.io/lp/de/fehlerueberwachung/#:~:text=Fehler%C3%BCberwachung,KOSTENLOS%20LOSLEGEN

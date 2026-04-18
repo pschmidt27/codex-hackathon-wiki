@@ -1,2 +1,0 @@
-"controls which tools dotagents configures. It handles skill symlinks, MCP config files, and hook config files for each"
- https://docs.sentry.io/ai/dotagents/#:~:text=controls%20which%20tools%20dotagents%20configures.%20It%20handles%20skill%20symlinks%2C%20MCP%20config%20files%2C%20and%20hook%20config%20files%20for%20each

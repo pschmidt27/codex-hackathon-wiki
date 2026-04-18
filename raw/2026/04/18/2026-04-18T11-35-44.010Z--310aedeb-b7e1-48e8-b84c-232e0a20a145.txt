@@ -1,3 +1,0 @@
-"dotagents
-A package manager for .agents directories. Declare agent skill dependencies in agents.toml, lock versions for reproducibility, and share skills across your team."
- https://docs.sentry.io/ai/dotagents/#:~:text=dotagents-,dotagents,toml%2C%20lock%20versions%20for%20reproducibility%2C%20and%20share%20skills%20across%20your%20team.,-dotagents%20is%20currently
