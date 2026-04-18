@@ -169,3 +169,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T17-35-09.432Z--b8599b32-1d8b-4b63-b420-3186b7d59602.md]]
 - rawAsset: [[raw/assets/2026-04-18T17-35-09.432Z--b8599b32-1d8b-4b63-b420-3186b7d59602.jpg]]
 - touchedNotes: [[notes/beverage-photo.md]]
+
+## 2026-04-18T17:41:47.545Z ingest | 6e18dd29-5bf4-462b-8e0f-0d1736cc7dcc | Beer mug photo
+- curatedAction: updated
+- curatedNote: [[notes/beverage-photo.md]]
+- rawSource: [[raw/2026-04-18T17-41-47.545Z--6e18dd29-5bf4-462b-8e0f-0d1736cc7dcc.md]]
+- rawAsset: [[raw/assets/2026-04-18T17-41-47.545Z--6e18dd29-5bf4-462b-8e0f-0d1736cc7dcc.jpg]]
+- touchedNotes: [[notes/beverage-photo.md]]
