@@ -2,4 +2,4 @@
 
 High-level summary of the vault.
 
-This vault currently includes a note on Sentry documentation and its broad product coverage across monitoring, tracing, replay, profiling, crons, logs, and platform guides.
+This vault currently includes notes on Sentry documentation and Sentry for AI, covering monitoring, tracing, replay, profiling, crons, logs, platform guides, and AI-focused workflows.
