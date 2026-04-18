@@ -9,3 +9,4 @@ Top-level navigation for the vault.
 - [[notes/pi-coding-agent]]
 - [[notes/pi-context-files]]
 - [[notes/pi-tui]]
+- [[notes/reddit-user-chromeragnarok]]

@@ -120,3 +120,10 @@ Chronological ingest history.
 - rawSource: [[raw/2026-04-18T14-17-56.818Z--837c2dbe-2781-44fa-be48-1b762dc3e85e.txt]]
 - rawAsset: none
 - touchedNotes: [[notes/pi-coding-agent.md]]
+
+## 2026-04-18T14:18:29.523307Z ingest | 852b6cfd-1e62-47c9-945d-cdfbfe528893 | Reddit user chromeragnarok
+- curatedAction: created
+- curatedNote: [[notes/reddit-user-chromeragnarok.md]]
+- rawSource: [[raw/2026-04-18T14-18-31.203Z--852b6cfd-1e62-47c9-945d-cdfbfe528893.txt]]
+- rawAsset: none
+- touchedNotes: [[notes/reddit-user-chromeragnarok.md]]
